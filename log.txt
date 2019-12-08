@@ -1,0 +1,2 @@
+this is error log file that we wouldn't want to add to the git repo
+So we will add this file name to the .gitignore file
